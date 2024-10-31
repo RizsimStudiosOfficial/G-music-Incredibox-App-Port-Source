@@ -9,7 +9,7 @@ let mainWindow, menu;
 
 function createWindow() {
     (mainWindow = new BrowserWindow({
-        title: "Incredibox: 20 Polo Template",
+        title: "G Music: Incredibox App Port",
         width: 1980,
         height: 1200,
         minWidth: 1074,
