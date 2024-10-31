@@ -1,10 +1,8 @@
-# Incredibox 20 Polos Mod Template Source Code
-welcome to the 20 polos PC template Source Code here you can use it for making PC ports for your mods I guess
+# G Music Incredibox App Port
+this page is the webapp page this is where you play the site for this mod
 
-
-# Files
-click the "desktop" folder to access them
-
+# Branches
+"webapp" the main one right here "apps" for desktop and android source files
 
 # What the code uses from?
-just like the oceanlight PC Port one I made it uses https://github.com/SolsticeSpectrum/Incredibox/ for this
+it uses https://github.com/SolsticeSpectrum/Incredibox/ for this
