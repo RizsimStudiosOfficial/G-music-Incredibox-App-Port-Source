@@ -1,9 +1,9 @@
 {
-  "name": "Incredibox 20 Polos Mod Template",
+  "name": "G Music: Incredibox App Port",
   "version": "1.0.1",
-  "description": "A music app that lets you create your own music with the help of a merry crew of beatboxers.",
+  "description": "A port of the old 2013 G-Music! now working for modern phones and devices to try out, including a special remastered version with it too!",
   "main": "main.js",
-  "author": "So Far So Good",
+  "author": "Rizsim Studios",
   "license": "So Far So Good",
   "dependencies": {
     "electron-squirrel-startup": "^1.0.0",
