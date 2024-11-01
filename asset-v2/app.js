@@ -33,7 +33,7 @@ var app = new function() {
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b8-og",
         color: "828282",
         uniqsnd: !0
     }, {
