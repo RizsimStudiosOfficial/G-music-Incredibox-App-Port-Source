@@ -9,19 +9,19 @@ var app = new function() {
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b2-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b3-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b4-og",
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b5-og",
         color: "828282",
         uniqsnd: !0
     }, {
@@ -29,7 +29,7 @@ var app = new function() {
         color: "828282",
         uniqsnd: !0
     }, {
-        name: "0_placeholder",
+        name: "b7-og",
         color: "828282",
         uniqsnd: !0
     }, {
