@@ -943,11 +943,11 @@ body.miniPlayer #lock-pause .bt .bck {
 }
 
 #sp-select .icon#icon1 .bul {
-	background-color: #5f5f5f
+	background-color: #4d1e1e
 }
 
 #sp-select .icon#icon2 .bul {
-	background-color: #c32d2d
+	background-color: #d4d4d4
 }
 
 #sp-select .icon#icon3 .bul {
@@ -4678,7 +4678,7 @@ video::-webkit-media-controls {
 	width: 1024px;
 	height: 252px;
 	left: 50%;
-	margin-left: -716px;
+	margin-left: -512px;
 	opacity: 1
 }
 
@@ -4717,7 +4717,7 @@ video::-webkit-media-controls {
 #game #box-bottom #box-picto .picto .scale {
 	width: 68px;
 	height: 68px;
-	background-size: 2720px 136px;
+	background-size: 1360px 136px;
 	background-repeat: no-repeat;
 	border-radius: 14px;
 	transition: opacity .4s ease-out;
